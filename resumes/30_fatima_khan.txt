@@ -1,0 +1,20 @@
+Fatima Khan
+Data Science Manager
+
+SUMMARY
+Led data science teams delivering forecasting, ranking and customer intelligence systems.
+
+SKILLS
+Python, Machine Learning, Deep Learning, SQL, AWS, TensorFlow, Tableau
+
+EXPERIENCE
+11 years of professional experience.
+Led data science teams delivering forecasting, ranking and customer intelligence systems.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+Delivered model evaluation, feature engineering, experimentation and production monitoring where applicable.
+
+EDUCATION
+M.Tech. Data Science, IIIT Bangalore
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

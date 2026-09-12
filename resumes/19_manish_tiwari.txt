@@ -1,0 +1,19 @@
+Manish Tiwari
+Data Analyst
+
+SUMMARY
+Performed cohort analysis, KPI reporting and business forecasting.
+
+SKILLS
+SQL, Python, Pandas, Tableau, Power BI
+
+EXPERIENCE
+3 years of professional experience.
+Performed cohort analysis, KPI reporting and business forecasting.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Sc. Mathematics, University of Lucknow
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

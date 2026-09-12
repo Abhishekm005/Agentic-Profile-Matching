@@ -1,0 +1,23 @@
+Siddhi Pillai
+ML Engineer
+Email: siddhi_pillai@example.com
+
+SUMMARY
+Machine learning engineer focused on production model development and MLOps.
+
+SKILLS
+Python, PyTorch, TensorFlow, scikit-learn, MLflow, Docker, Prometheus, Grafana
+
+EXPERIENCE
+4.8 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included Python, PyTorch, TensorFlow, scikit-learn and automation of engineering workflows.
+
+EDUCATION
+B.Tech Computer Science
+
+PROJECTS
+Delivered a production-oriented project using Python, PyTorch, TensorFlow, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

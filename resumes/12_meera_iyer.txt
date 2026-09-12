@@ -1,0 +1,19 @@
+Meera Iyer
+Analytics Engineer
+
+SUMMARY
+Built trusted analytical models and executive dashboards on a Snowflake stack.
+
+SKILLS
+SQL, Python, Snowflake, dbt, Tableau, Airflow, AWS
+
+EXPERIENCE
+5 years of professional experience.
+Built trusted analytical models and executive dashboards on a Snowflake stack.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. Information Science, BITS Pilani
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

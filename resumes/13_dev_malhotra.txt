@@ -1,0 +1,19 @@
+Dev Malhotra
+Full Stack Engineer
+
+SUMMARY
+Delivered full-stack SaaS features from React UI through Node.js APIs and PostgreSQL.
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, PostgreSQL, Docker, AWS, REST APIs
+
+EXPERIENCE
+7 years of professional experience.
+Delivered full-stack SaaS features from React UI through Node.js APIs and PostgreSQL.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. CSE, SRM Institute of Science and Technology
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

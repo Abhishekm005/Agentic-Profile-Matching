@@ -1,0 +1,20 @@
+Ananya Gupta
+Data Scientist
+
+SUMMARY
+Built churn, forecasting and experimentation models; communicated findings through Tableau dashboards.
+
+SKILLS
+Python, Machine Learning, scikit-learn, Pandas, NumPy, SQL, Tableau
+
+EXPERIENCE
+4 years of professional experience.
+Built churn, forecasting and experimentation models; communicated findings through Tableau dashboards.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+Delivered model evaluation, feature engineering, experimentation and production monitoring where applicable.
+
+EDUCATION
+M.Sc. Statistics, University of Delhi
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

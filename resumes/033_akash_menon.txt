@@ -1,0 +1,23 @@
+Akash Menon
+Backend Engineer
+Email: akash_menon@example.com
+
+SUMMARY
+Backend engineer specializing in scalable Java services and event-driven systems.
+
+SKILLS
+Java, Spring Boot, SQL, Kafka, Docker, Redis, CI/CD, Git
+
+EXPERIENCE
+5.1 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included Java, Spring Boot, SQL, Kafka and automation of engineering workflows.
+
+EDUCATION
+B.Tech Computer Science
+
+PROJECTS
+Delivered a production-oriented project using Java, Spring Boot, SQL, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

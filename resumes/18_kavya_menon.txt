@@ -1,0 +1,20 @@
+Kavya Menon
+Computer Vision Engineer
+
+SUMMARY
+Built visual inspection and object detection systems for manufacturing.
+
+SKILLS
+Python, Computer Vision, PyTorch, TensorFlow, OpenCV, Machine Learning, AWS
+
+EXPERIENCE
+6 years of professional experience.
+Built visual inspection and object detection systems for manufacturing.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+Delivered model evaluation, feature engineering, experimentation and production monitoring where applicable.
+
+EDUCATION
+M.Tech. AI, IIT Madras
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

@@ -1,0 +1,20 @@
+Tanvi Bhatia
+Research Scientist
+
+SUMMARY
+Published applied ML research and transferred prototypes into production experiments.
+
+SKILLS
+Python, Machine Learning, Deep Learning, PyTorch, NLP, Computer Vision
+
+EXPERIENCE
+9 years of professional experience.
+Published applied ML research and transferred prototypes into production experiments.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+Delivered model evaluation, feature engineering, experimentation and production monitoring where applicable.
+
+EDUCATION
+Ph.D. Computer Science, IIT Bombay
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

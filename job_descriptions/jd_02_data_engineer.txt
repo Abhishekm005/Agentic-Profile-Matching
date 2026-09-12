@@ -1,0 +1,4 @@
+Senior Data Engineer
+Build reliable batch and streaming data platforms. Required: Python, SQL, Spark, Airflow and AWS.
+Must have at least 5 years of professional experience and strong data pipeline engineering.
+Kafka, Snowflake and Docker are highly valued.

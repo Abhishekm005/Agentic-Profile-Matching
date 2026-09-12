@@ -1,0 +1,23 @@
+Tanya Rana
+ML Platform Engineer
+Email: tanya_rana@example.com
+
+SUMMARY
+ML platform engineer building reproducible training and model-serving infrastructure.
+
+SKILLS
+Python, MLflow, Kubernetes, Docker, AWS, PyTorch, Excel, Git
+
+EXPERIENCE
+7.0 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included Python, MLflow, Kubernetes, Docker and automation of engineering workflows.
+
+EDUCATION
+B.Tech Computer Science
+
+PROJECTS
+Delivered a production-oriented project using Python, MLflow, Kubernetes, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

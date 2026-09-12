@@ -1,0 +1,19 @@
+Aditya Kulkarni
+Database Engineer
+
+SUMMARY
+Optimized large relational workloads, backup strategy and database reliability.
+
+SKILLS
+SQL, PostgreSQL, MySQL, Redis, AWS, Python, Linux
+
+EXPERIENCE
+10 years of professional experience.
+Optimized large relational workloads, backup strategy and database reliability.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.E. Computer Engineering, Mumbai University
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

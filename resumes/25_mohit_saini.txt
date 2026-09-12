@@ -1,0 +1,19 @@
+Mohit Saini
+React Developer
+
+SUMMARY
+Built responsive React applications and component libraries for consumer products.
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, GraphQL, CSS
+
+EXPERIENCE
+4 years of professional experience.
+Built responsive React applications and component libraries for consumer products.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+BCA, University of Rajasthan
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

@@ -1,0 +1,19 @@
+Priya Sharma
+Data Engineer
+
+SUMMARY
+Designed batch and streaming pipelines processing 4 TB/day; owned Airflow and Kafka platforms.
+
+SKILLS
+Python, SQL, Spark, Kafka, Airflow, AWS, Docker, Snowflake
+
+EXPERIENCE
+7 years of professional experience.
+Designed batch and streaming pipelines processing 4 TB/day; owned Airflow and Kafka platforms.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech in Information Technology, NIT Trichy
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

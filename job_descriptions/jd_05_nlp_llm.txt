@@ -1,0 +1,4 @@
+NLP / LLM Engineer
+Develop NLP, retrieval and LLM applications.
+Must have Python, NLP and Machine Learning, with 4+ years Python experience.
+PyTorch, Transformers, LLM evaluation, SQL and AWS are preferred. Experience building document intelligence systems is a plus.

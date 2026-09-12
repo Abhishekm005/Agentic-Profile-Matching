@@ -1,0 +1,19 @@
+Aditi Roy
+Business Analyst
+
+SUMMARY
+Led requirements, KPI analysis and stakeholder reporting for SaaS products.
+
+SKILLS
+SQL, Tableau, Power BI, Python, Product Management
+
+EXPERIENCE
+6 years of professional experience.
+Led requirements, KPI analysis and stakeholder reporting for SaaS products.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+MBA, IIM Calcutta
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

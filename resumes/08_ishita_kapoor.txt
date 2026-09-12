@@ -1,0 +1,19 @@
+Ishita Kapoor
+Product Manager
+
+SUMMARY
+Owned B2B analytics products, roadmap, experimentation and cross-functional delivery.
+
+SKILLS
+Product Management, SQL, Tableau, Python, AWS, Figma
+
+EXPERIENCE
+8 years of professional experience.
+Owned B2B analytics products, roadmap, experimentation and cross-functional delivery.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+MBA, IIM Bangalore
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

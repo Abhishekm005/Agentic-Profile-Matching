@@ -1,0 +1,19 @@
+Siddharth Bose
+Software Architect
+
+SUMMARY
+Architected multi-region platforms, event-driven services and reliability standards.
+
+SKILLS
+Java, Spring Boot, Microservices, AWS, Kubernetes, Kafka, System Design, SQL
+
+EXPERIENCE
+12 years of professional experience.
+Architected multi-region platforms, event-driven services and reliability standards.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+M.Tech. Software Engineering, Jadavpur University
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

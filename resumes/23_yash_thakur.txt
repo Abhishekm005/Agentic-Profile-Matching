@@ -1,0 +1,19 @@
+Yash Thakur
+Site Reliability Engineer
+
+SUMMARY
+Improved platform availability, observability and incident response automation.
+
+SKILLS
+Kubernetes, AWS, Terraform, Docker, Linux, Python, Jenkins, CI/CD
+
+EXPERIENCE
+7 years of professional experience.
+Improved platform availability, observability and incident response automation.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. CSE, IIIT Bangalore
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

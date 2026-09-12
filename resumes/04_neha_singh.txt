@@ -1,0 +1,19 @@
+Neha Singh
+Frontend Engineer
+
+SUMMARY
+Led frontend platform development; built accessible React applications and GraphQL integrations.
+
+SKILLS
+JavaScript, TypeScript, React, Angular, Node.js, GraphQL, AWS
+
+EXPERIENCE
+5 years of professional experience.
+Led frontend platform development; built accessible React applications and GraphQL integrations.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech in Computer Science, DTU
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

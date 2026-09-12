@@ -1,0 +1,19 @@
+Sneha Reddy
+ETL Developer
+
+SUMMARY
+Built reliable data ingestion and transformation pipelines for customer analytics.
+
+SKILLS
+Python, SQL, Spark, Hadoop, Airflow, AWS, ETL
+
+EXPERIENCE
+5 years of professional experience.
+Built reliable data ingestion and transformation pipelines for customer analytics.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. IT, Osmania University
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

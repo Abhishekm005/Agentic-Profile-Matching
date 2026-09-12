@@ -1,0 +1,19 @@
+Harsh Vardhan
+Mobile Backend Engineer
+
+SUMMARY
+Built APIs supporting mobile applications and high-volume notification systems.
+
+SKILLS
+Java, Spring Boot, PostgreSQL, Redis, Kafka, AWS, Docker
+
+EXPERIENCE
+6 years of professional experience.
+Built APIs supporting mobile applications and high-volume notification systems.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. Computer Science, LNMIIT
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

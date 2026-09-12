@@ -1,0 +1,23 @@
+Shreya Kulkarni
+DevOps Engineer
+Email: shreya_kulkarni@example.com
+
+SUMMARY
+Cloud and DevOps engineer focused on infrastructure automation and reliability.
+
+SKILLS
+AWS, Kubernetes, Docker, Terraform, Jenkins, Linux, Prometheus, Grafana
+
+EXPERIENCE
+6.6 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included AWS, Kubernetes, Docker, Terraform and automation of engineering workflows.
+
+EDUCATION
+B.Tech Computer Science
+
+PROJECTS
+Delivered a production-oriented project using AWS, Kubernetes, Docker, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

@@ -1,0 +1,19 @@
+Vikram Rao
+Cloud DevOps Engineer
+
+SUMMARY
+Designed multi-account AWS infrastructure and Kubernetes platform; automated delivery with Terraform and Jenkins.
+
+SKILLS
+AWS, Kubernetes, Docker, Terraform, Jenkins, Linux, Python, CI/CD
+
+EXPERIENCE
+9 years of professional experience.
+Designed multi-account AWS infrastructure and Kubernetes platform; automated delivery with Terraform and Jenkins.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.E. in Computer Engineering, Pune University
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

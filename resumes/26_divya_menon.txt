@@ -1,0 +1,20 @@
+Divya Menon
+AI Product Manager
+
+SUMMARY
+Managed AI product roadmaps, evaluation metrics and customer discovery.
+
+SKILLS
+Product Management, Machine Learning, Python, SQL, LLM, Figma
+
+EXPERIENCE
+7 years of professional experience.
+Managed AI product roadmaps, evaluation metrics and customer discovery.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+Delivered model evaluation, feature engineering, experimentation and production monitoring where applicable.
+
+EDUCATION
+MBA, XLRI Jamshedpur
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

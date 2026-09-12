@@ -1,0 +1,23 @@
+Dev Dutta
+Analytics Engineer
+Email: dev_dutta@example.com
+
+SUMMARY
+Analytics engineer developing governed data models and reporting pipelines.
+
+SKILLS
+SQL, dbt, Snowflake, Python, Tableau, AWS, React, Git
+
+EXPERIENCE
+4.5 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included SQL, dbt, Snowflake, Python and automation of engineering workflows.
+
+EDUCATION
+B.Tech Information Systems
+
+PROJECTS
+Delivered a production-oriented project using SQL, dbt, Snowflake, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

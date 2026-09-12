@@ -1,0 +1,23 @@
+Madhav Agarwal
+Full Stack Engineer
+Email: madhav_agarwal@example.com
+
+SUMMARY
+Full-stack engineer delivering web applications with Java services and React interfaces.
+
+SKILLS
+Java, Spring Boot, React, JavaScript, PostgreSQL, Docker, Git, REST API
+
+EXPERIENCE
+5.4 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included Java, Spring Boot, React, JavaScript and automation of engineering workflows.
+
+EDUCATION
+B.Tech Computer Science
+
+PROJECTS
+Delivered a production-oriented project using Java, Spring Boot, React, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

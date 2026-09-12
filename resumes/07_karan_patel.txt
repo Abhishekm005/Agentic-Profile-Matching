@@ -1,0 +1,19 @@
+Karan Patel
+Java Developer
+
+SUMMARY
+Developed enterprise Spring Boot services and automated CI/CD for customer platforms.
+
+SKILLS
+Java, Spring Boot, SQL, Microservices, Docker, Jenkins, REST APIs
+
+EXPERIENCE
+6 years of professional experience.
+Developed enterprise Spring Boot services and automated CI/CD for customer platforms.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. Computer Engineering, Nirma University
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

@@ -1,0 +1,23 @@
+Kunal Joshi
+NLP Engineer
+Email: kunal_joshi@example.com
+
+SUMMARY
+NLP engineer developing transformer and LLM applications with production APIs.
+
+SKILLS
+Python, PyTorch, Transformers, NLP, LLM, FastAPI, PostgreSQL, Git
+
+EXPERIENCE
+4.0 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included Python, PyTorch, Transformers, NLP and automation of engineering workflows.
+
+EDUCATION
+M.Tech Artificial Intelligence
+
+PROJECTS
+Delivered a production-oriented project using Python, PyTorch, Transformers, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

@@ -1,0 +1,19 @@
+Nikhil Jain
+Platform Engineer
+
+SUMMARY
+Built developer platforms and Kubernetes operators with strong infrastructure automation.
+
+SKILLS
+Go, Python, Kubernetes, Docker, AWS, Terraform, Linux, CI/CD
+
+EXPERIENCE
+6 years of professional experience.
+Built developer platforms and Kubernetes operators with strong infrastructure automation.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. CSE, IIIT Hyderabad
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

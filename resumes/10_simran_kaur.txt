@@ -1,0 +1,20 @@
+Simran Kaur
+NLP Engineer
+
+SUMMARY
+Developed document classification, retrieval and LLM evaluation pipelines.
+
+SKILLS
+Python, NLP, Machine Learning, PyTorch, Transformers, LLM, SQL, AWS
+
+EXPERIENCE
+5 years of professional experience.
+Developed document classification, retrieval and LLM evaluation pipelines.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+Delivered model evaluation, feature engineering, experimentation and production monitoring where applicable.
+
+EDUCATION
+M.Tech. AI, IIIT Delhi
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

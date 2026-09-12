@@ -1,0 +1,19 @@
+Nandini Shah
+BI Developer
+
+SUMMARY
+Created enterprise BI dashboards and ETL processes for finance and operations.
+
+SKILLS
+SQL, Power BI, Tableau, Python, Snowflake, ETL
+
+EXPERIENCE
+5 years of professional experience.
+Created enterprise BI dashboards and ETL processes for finance and operations.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. Electronics, Gujarat Technological University
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

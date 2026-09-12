@@ -1,0 +1,23 @@
+Karan Singh
+Data Scientist
+Email: karan_singh@example.com
+
+SUMMARY
+Data scientist focused on predictive analytics, experimentation and business insights.
+
+SKILLS
+Python, Pandas, scikit-learn, SQL, Power BI, Statistics, React, Git
+
+EXPERIENCE
+5.0 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included Python, Pandas, scikit-learn, SQL and automation of engineering workflows.
+
+EDUCATION
+M.Sc Data Science
+
+PROJECTS
+Delivered a production-oriented project using Python, Pandas, scikit-learn, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

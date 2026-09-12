@@ -1,0 +1,19 @@
+Arjun Nair
+Security Engineer
+
+SUMMARY
+Built detection automation and cloud security controls; led incident response engineering.
+
+SKILLS
+Python, Linux, Cybersecurity, AWS, Docker, Kubernetes, SQL
+
+EXPERIENCE
+7 years of professional experience.
+Built detection automation and cloud security controls; led incident response engineering.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. Computer Science, IIIT Hyderabad
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

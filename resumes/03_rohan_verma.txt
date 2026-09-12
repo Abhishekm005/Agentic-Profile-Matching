@@ -1,0 +1,19 @@
+Rohan Verma
+Backend Engineer
+
+SUMMARY
+Built high-throughput payment services; migrated monolith to microservices and improved p99 latency.
+
+SKILLS
+Java, Spring Boot, Microservices, Kafka, PostgreSQL, Redis, Docker, Kubernetes, AWS
+
+EXPERIENCE
+8 years of professional experience.
+Built high-throughput payment services; migrated monolith to microservices and improved p99 latency.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech in Computer Science, VIT Vellore
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

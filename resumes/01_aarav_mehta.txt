@@ -1,0 +1,20 @@
+Aarav Mehta
+ML Engineer
+
+SUMMARY
+Built recommendation and NLP systems; deployed ML APIs on AWS; mentored 3 engineers.
+
+SKILLS
+Python, Machine Learning, PyTorch, TensorFlow, NLP, SQL, AWS
+
+EXPERIENCE
+6 years of professional experience.
+Built recommendation and NLP systems; deployed ML APIs on AWS; mentored 3 engineers.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+Delivered model evaluation, feature engineering, experimentation and production monitoring where applicable.
+
+EDUCATION
+M.Tech in Computer Science, IIT Delhi
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

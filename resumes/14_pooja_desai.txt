@@ -1,0 +1,20 @@
+Pooja Desai
+ML Platform Engineer
+
+SUMMARY
+Built internal ML platform, model deployment workflows and GPU Kubernetes infrastructure.
+
+SKILLS
+Python, Kubernetes, Docker, AWS, Terraform, PyTorch, Machine Learning, CI/CD
+
+EXPERIENCE
+8 years of professional experience.
+Built internal ML platform, model deployment workflows and GPU Kubernetes infrastructure.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+Delivered model evaluation, feature engineering, experimentation and production monitoring where applicable.
+
+EDUCATION
+M.Tech. Computer Science, IISc Bangalore
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

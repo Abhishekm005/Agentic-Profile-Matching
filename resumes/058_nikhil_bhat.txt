@@ -1,0 +1,23 @@
+Nikhil Bhat
+Cloud Engineer
+Email: nikhil_bhat@example.com
+
+SUMMARY
+Cloud engineer automating Azure infrastructure and container platforms.
+
+SKILLS
+Azure, Kubernetes, Docker, Terraform, Linux, Python, Excel, Git
+
+EXPERIENCE
+5.8 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included Azure, Kubernetes, Docker, Terraform and automation of engineering workflows.
+
+EDUCATION
+B.Tech Computer Science
+
+PROJECTS
+Delivered a production-oriented project using Azure, Kubernetes, Docker, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

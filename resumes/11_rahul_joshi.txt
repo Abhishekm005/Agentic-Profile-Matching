@@ -1,0 +1,19 @@
+Rahul Joshi
+QA Automation Engineer
+
+SUMMARY
+Built UI/API automation suites and quality gates across distributed services.
+
+SKILLS
+Java, Python, Selenium, Playwright, SQL, Jenkins, Docker
+
+EXPERIENCE
+6 years of professional experience.
+Built UI/API automation suites and quality gates across distributed services.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. IT, Manipal Institute of Technology
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.

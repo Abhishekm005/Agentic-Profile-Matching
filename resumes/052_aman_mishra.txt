@@ -1,0 +1,23 @@
+Aman Mishra
+Data Engineer
+Email: aman_mishra@example.com
+
+SUMMARY
+Data engineer building batch and streaming pipelines on cloud platforms.
+
+SKILLS
+Python, SQL, Spark, Airflow, Kafka, AWS, Git, REST API
+
+EXPERIENCE
+5.1 years of professional experience in software and data engineering roles.
+Built production systems, collaborated with cross-functional teams, reviewed code, and improved reliability and delivery practices.
+Recent work included Python, SQL, Spark, Airflow and automation of engineering workflows.
+
+EDUCATION
+B.Tech Information Technology
+
+PROJECTS
+Delivered a production-oriented project using Python, SQL, Spark, with automated testing, documentation, monitoring, and deployment practices.
+
+CERTIFICATIONS
+Relevant professional training in cloud, software engineering, data, or machine learning.

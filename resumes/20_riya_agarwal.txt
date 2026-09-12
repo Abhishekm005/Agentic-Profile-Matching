@@ -1,0 +1,19 @@
+Riya Agarwal
+Cloud Engineer
+
+SUMMARY
+Automated Azure infrastructure and container deployments for internal platforms.
+
+SKILLS
+Azure, Docker, Kubernetes, Terraform, Python, Linux, CI/CD
+
+EXPERIENCE
+5 years of professional experience.
+Automated Azure infrastructure and container deployments for internal platforms.
+Worked with cross-functional engineering and product teams, documented technical decisions, and supported production systems.
+
+EDUCATION
+B.Tech. CSE, Amity University
+
+PROJECTS
+Built production-quality projects using the listed technologies, with emphasis on reliability, maintainability, testing and measurable business outcomes.
